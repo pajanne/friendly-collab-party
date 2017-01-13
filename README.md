@@ -16,5 +16,3 @@ This project requires a computer and internet.
 ## Code of conduct
 
 ## License
-
-## Comments
